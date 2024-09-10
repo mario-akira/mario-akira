@@ -25,8 +25,7 @@ Meu nome é Mario Akira e eu sou estudante de Engenharia Elétrica!
 
 
 <h3 align="left">Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F7817343&psig=AOvVaw3wPgMlfsKQS1YVEIFsJ0i2&ust=1726062289244000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDMqqjBuIgDFQAAAAAdAAAAABAE" alt="mathematica" width="40" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-arnny&psig=AOvVaw2qtNUEWP3XUn64xFCm0tV7&ust=1721178491223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi179WvqocDFQAAAAAdAAAAABAE" alt="jupyter" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://wiki.st.com/stm32mcu/wiki/Microcontroller" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FSpyderIDE%2F&psig=AOvVaw13k4B17xsfyTWItsMxdLY2&ust=1721178549599000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCQk_evqocDFQAAAAAdAAAAABAl" alt="mathematica" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DMATLAB&psig=AOvVaw1P7Itm6fHc0a-ZZpZo_ZrB&ust=1721178644003000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPipkp-wqocDFQAAAAAdAAAAABAE" alt="mathematica" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/284/106/png-transparent-visual-studio-code-logo.png" alt="mathematica" width="40" height="40"/> </a> 
