@@ -18,7 +18,7 @@ Meu nome é Mario Akira e eu sou estudante de Engenharia Elétrica!
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png?20210414121601" alt="latex" width="40" height="40"/> </a> 
+<a href="https://www.latex-project.org/" target="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" width="40" height="40"/> </a> 
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="fortran" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"> <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" alt="fortran" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://www.mathworks.com/help/examples/matlab/win64/MatlabLogoExample_08.png" alt="latex" width="40" height="40"/> </a> 
