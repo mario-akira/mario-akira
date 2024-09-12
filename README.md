@@ -13,7 +13,7 @@ Meu nome é Mario Akira e eu sou estudante de Engenharia Elétrica!
 <a href="https://x.com/marioakira308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@marioakira9640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mario_akira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cissagatto" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/mario-akira-de-santi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mario-akira-de-santi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
