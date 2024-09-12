@@ -2,7 +2,7 @@
 
 Meu nome é Mario Akira e eu sou estudante de Engenharia Elétrica!
 
-- 🔭 Atualmente eu estudo maneiras alternativas para simulação de veículos elétricos
+- 🔭 Atualmente eu desenvolvo um estudo de TCC sobre maneiras alternativas para simulação de veículos elétricos com Python
 - :pushpin: São Carlos, Brasil
 - 🌱 Aluno de Engenharia Elétrica na UFSCar
 - 📫 Meu contato online: mariosanti30@outlook.com
