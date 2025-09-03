@@ -1,10 +1,10 @@
 ### Olá 👋
 
-Meu nome é Mario Akira e eu sou estudante de Engenharia Elétrica!
+Meu nome é Mario Akira e sou Engenheiro Elétrico!
 
-- 🔭 Atualmente eu desenvolvo um estudo de TCC sobre maneiras alternativas para simulação de veículos elétricos com Python
+- 🔭 Atualmente eu sou engenheiro de hardware(Verilog, VHDL, FPGA, SoC ...)
 - :pushpin: São Carlos, Brasil
-- 🌱 Aluno de Engenharia Elétrica na UFSCar
+- 🎓 Formado em Engenharia Elétrica na UFSCar
 - 📫 Meu contato online: mariosanti30@outlook.com
 - ⚡ Fato Curioso: Gosto de automobilismo
 
