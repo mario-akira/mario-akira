@@ -23,7 +23,7 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/overleaf-latex-editor-icon.png" alt="latex" width="40" height="40"/> </a> 
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-plus-plus-icon.png" alt="fortran" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://www.mathworks.com/help/examples/matlab/win64/MatlabLogoExample_08.png" alt="latex" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="latex" width="40" height="40"/> </a> 
 
 
 <h3 align="left">Tools:</h3>
