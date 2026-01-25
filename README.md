@@ -16,7 +16,8 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 <a href="www.linkedin.com/in/mario-akira-de-santi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
 
 <h3 align="left">Languages:</h3>
-<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-icon.png" alt="python" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/verilog-code-file-black-icon.png" alt="python" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/VHDL" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-icon.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" width="40" height="40"/> </a> 
