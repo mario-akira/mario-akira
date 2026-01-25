@@ -27,7 +27,7 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 
 
 <h3 align="left">Tools:</h3>
-<a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://www.pngfind.com/pngs/m/148-1482706_quartus-logo-png-transparent-quartus-logo-png-download.png" alt="stm" width="40" height="40"/> </a> 
+<a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://manuals.plus/wp-content/uploads/2022/12/intel-Quartus-Prime-Design-Software-PRO.png" alt="stm" width="40" height="40"/> </a> 
 <a href="https://www.st.com/en/development-tools/stm32-ides.html" target="_blank"> <img src="https://companieslogo.com/img/orig/STM-4f4a0bab.png?t=1720244494" alt="stm" width="40" height="40"/> </a> 
 <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://docs.spyder-ide.org/current/_static/spyder_logo.svg" alt="stm" width="60" height="40"/> </a> 
 <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://www.mathworks.com/help/examples/matlab/win64/MatlabLogoExample_08.png" alt="mathematica" width="40" height="40"/> </a> 
