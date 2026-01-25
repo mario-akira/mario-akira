@@ -10,10 +10,10 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
+<a href="www.linkedin.com/in/mario-akira-de-santi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
 <a href="https://x.com/marioakira308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@marioakira9640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mario_akira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cissagatto" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/mario-akira-de-santi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages:</h3>
 <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/verilog-code-file-icon.png" alt="python" width="40" height="40"/> </a>
