@@ -27,7 +27,7 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 
 
 <h3 align="left">Tools:</h3>
-<a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://manuals.plus/wp-content/uploads/2022/12/intel-Quartus-Prime-Design-Software-PRO.png" alt="stm" width="40" height="40"/> </a> 
+<a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://www.altera.com/themes/custom/altera_theme/assets/altera-logo-footer-tm-white-3000.png" alt="stm" width="40" height="40"/> </a> 
 <a href="https://fedoraproject.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fedora-project-icon.png" alt="stm" width="40" height="40"/> </a> 
 <a href="https://www.beagleboard.org/projects/angstrom" target="_blank"> <img src="https://www.beagleboard.org/app/uploads/2021/03/292.png" alt="stm" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ubuntu-color-icon.png" alt="stm" width="40" height="40"/> </a> 
