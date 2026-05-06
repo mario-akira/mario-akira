@@ -24,14 +24,35 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 </table>
 
 <h3 align="left">Languages:</h3>
-<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/verilog-code-file-icon.png" alt="python" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/VHDL" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-icon.png" alt="python" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-icon.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.latex-project.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/overleaf-latex-editor-icon.png" alt="latex" width="40" height="40"/> </a> 
-<a href="https://cplusplus.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-plus-plus-icon.png" alt="fortran" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="latex" width="40" height="40"/> </a> 
+<table>
+  <tr>
+    <td>
+      <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/verilog-code-file-icon.png" alt="python" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-icon.png" alt="python" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://www.python.org" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-icon.png" alt="c" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://www.latex-project.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/overleaf-latex-editor-icon.png" alt="latex" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://cplusplus.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-plus-plus-icon.png" alt="fortran" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="latex" width="40" height="40"/> </a> 
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">Tools:</h3>
