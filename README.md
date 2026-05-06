@@ -36,7 +36,7 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 
 <h3 align="left">Tools:</h3>
 <a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://www.altera.com/themes/custom/altera_theme/assets/altera-logo-footer-tm-white-3000.png" alt="stm" width="40" height="40"/> </a> 
-<a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
+<a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://en.wikipedia.org/wiki/Icarus_Verilog#/media/File:Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
 <a href="https://fedoraproject.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fedora-project-icon.png" alt="stm" width="40" height="40"/> </a> 
 <a href="https://www.beagleboard.org/projects/angstrom" target="_blank"> <img src="https://www.beagleboard.org/app/uploads/2021/03/292.png" alt="stm" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ubuntu-color-icon.png" alt="stm" width="40" height="40"/> </a> 
