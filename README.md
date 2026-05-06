@@ -53,15 +53,36 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
   </tr>
 </table>
 
+<h3 align="left">Tools:</h3><table>
+  <tr>
+    <td>
+      <a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://www.altera.com/themes/custom/altera_theme/assets/altera-logo-footer-tm-white-3000.png" alt="stm" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://fedoraproject.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fedora-project-icon.png" alt="stm" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://www.beagleboard.org/projects/angstrom" target="_blank"> <img src="https://www.beagleboard.org/app/uploads/2021/03/292.png" alt="stm" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://ubuntu.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ubuntu-color-icon.png" alt="stm" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://www.st.com/en/development-tools/stm32-ides.html" target="_blank"> <img src="https://companieslogo.com/img/orig/STM-4f4a0bab.png?t=1720244494" alt="stm" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://docs.spyder-ide.org/current/_static/spyder_logo.svg" alt="stm" width="60" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="mathematica" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="mathematica" width="40" height="40"/> </a> 
+    </td>
+  </tr>
+</table>
 
 
-<h3 align="left">Tools:</h3>
-<a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://www.altera.com/themes/custom/altera_theme/assets/altera-logo-footer-tm-white-3000.png" alt="stm" width="40" height="40"/> </a> 
-<a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
-<a href="https://fedoraproject.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fedora-project-icon.png" alt="stm" width="40" height="40"/> </a> 
-<a href="https://www.beagleboard.org/projects/angstrom" target="_blank"> <img src="https://www.beagleboard.org/app/uploads/2021/03/292.png" alt="stm" width="40" height="40"/> </a> 
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ubuntu-color-icon.png" alt="stm" width="40" height="40"/> </a> 
-<a href="https://www.st.com/en/development-tools/stm32-ides.html" target="_blank"> <img src="https://companieslogo.com/img/orig/STM-4f4a0bab.png?t=1720244494" alt="stm" width="40" height="40"/> </a> 
-<a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://docs.spyder-ide.org/current/_static/spyder_logo.svg" alt="stm" width="60" height="40"/> </a> 
-<a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="mathematica" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="mathematica" width="40" height="40"/> </a> 
