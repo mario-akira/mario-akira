@@ -4,7 +4,7 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 
 - 🔭 Atualmente eu sou desenvolvedor de hardware(Verilog, VHDL, FPGA, SoC ...)
 - :pushpin: São Carlos, Brasil
-- 🎓 Formado em Engenharia Elétrica na UFSCar
+- 🎓 Formado em Engenharia Elétrica na UFSCar e mestrando no ICMC-USP
 - 📫 Meu contato online: mariosanti30@outlook.com
 - ⚡ Fato Curioso: Gosto de automobilismo
 
