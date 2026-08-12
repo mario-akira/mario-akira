@@ -62,7 +62,7 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
       <a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
     </td>
     <td>
-      <a href="https://fedoraproject.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fedora-project-icon.png" alt="stm" width="40" height="40"/> </a> 
+      <a href="https://pytorch.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NzzP-bCL9Zufe_2XDMQrh5czry_arbMjCg8qCn8ICZeFtLrE0ljl0ho&s=10" alt="stm" width="40" height="40"/> </a> 
     </td>
     <td>
       <a href="https://www.beagleboard.org/projects/angstrom" target="_blank"> <img src="https://www.beagleboard.org/app/uploads/2021/03/292.png" alt="stm" width="40" height="40"/> </a> 
