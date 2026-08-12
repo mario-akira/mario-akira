@@ -56,7 +56,7 @@ Meu nome é Mario Akira e sou Engenheiro Elétrico!
 <h3 align="left">Tools:</h3><table>
   <tr>
     <td>
-      <a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://www.altera.com/themes/custom/altera_theme/assets/altera-logo-footer-tm-white-3000.png" alt="stm" width="40" height="40"/> </a> 
+      <a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VBDF0yKP9Oe1glflSSblrTMvUilT__v_4MpitluMx09ALTJ7E_3LuNpt&s=10" alt="altera" width="40" height="40"/> </a> 
     </td>
     <td>
       <a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
