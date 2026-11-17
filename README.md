@@ -9,80 +9,34 @@ Meu nome é Mario Akira!
 - ⚡ Fato Curioso: Gosto de automobilismo
 
 <h3 align="left">Social Media:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="www.linkedin.com/in/mario-akira-de-santi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
-    </td>
-    <td>
-      <a href="https://x.com/marioakira308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/@marioakira9640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+<a href="www.linkedin.com/in/mario-akira-de-santi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
+<a href="https://x.com/marioakira308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@marioakira9640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/verilog-code-file-icon.png" alt="python" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-icon.png" alt="python" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://www.python.org" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-icon.png" alt="c" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://www.latex-project.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/overleaf-latex-editor-icon.png" alt="latex" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://cplusplus.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-plus-plus-icon.png" alt="fortran" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="latex" width="40" height="40"/> </a> 
-    </td>
-  </tr>
-</table>
+<p align="left">
+<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/verilog-code-file-icon.png" alt="python" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/VHDL" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-icon.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-icon.png" alt="c" width="40" height="40"/> </a>
+<a href="https://www.latex-project.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/overleaf-latex-editor-icon.png" alt="latex" width="40" height="40"/> </a> 
+<a href="https://cplusplus.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/c-plus-plus-icon.png" alt="fortran" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="latex" width="40" height="40"/> </a> 
 
 <h3 align="left">Tools:</h3><table>
-  <tr>
-    <td>
-      <a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VBDF0yKP9Oe1glflSSblrTMvUilT__v_4MpitluMx09ALTJ7E_3LuNpt&s=10" alt="altera" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://pytorch.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NzzP-bCL9Zufe_2XDMQrh5czry_arbMjCg8qCn8ICZeFtLrE0ljl0ho&s=10" alt="stm" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://www.beagleboard.org/projects/angstrom" target="_blank"> <img src="https://www.beagleboard.org/app/uploads/2021/03/292.png" alt="stm" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://ubuntu.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ubuntu-color-icon.png" alt="stm" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://www.st.com/en/development-tools/stm32-ides.html" target="_blank"> <img src="https://companieslogo.com/img/orig/STM-4f4a0bab.png?t=1720244494" alt="stm" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://docs.spyder-ide.org/current/_static/spyder_logo.svg" alt="stm" width="60" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="mathematica" width="40" height="40"/> </a> 
-    </td>
-    <td>
-      <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="mathematica" width="40" height="40"/> </a> 
-    </td>
-  </tr>
-</table>
+<p align="left">
+<a href="https://www.altera.com/products/development-tools/quartus" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VBDF0yKP9Oe1glflSSblrTMvUilT__v_4MpitluMx09ALTJ7E_3LuNpt&s=10" alt="altera" width="40" height="40"/> </a> 
+<a href="https://steveicarus.github.io/iverilog/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="stm" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NzzP-bCL9Zufe_2XDMQrh5czry_arbMjCg8qCn8ICZeFtLrE0ljl0ho&s=10" alt="stm" width="40" height="40"/> </a> 
+<a href="https://www.beagleboard.org/projects/angstrom" target="_blank"> <img src="https://www.beagleboard.org/app/uploads/2021/03/292.png" alt="stm" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ubuntu-color-icon.png" alt="stm" width="40" height="40"/> </a> 
+<a href="https://www.st.com/en/development-tools/stm32-ides.html" target="_blank"> <img src="https://companieslogo.com/img/orig/STM-4f4a0bab.png?t=1720244494" alt="stm" width="40" height="40"/> </a> 
+<a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://docs.spyder-ide.org/current/_static/spyder_logo.svg" alt="stm" width="60" height="40"/> </a> 
+<a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png?20231222215141" alt="mathematica" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="mathematica" width="40" height="40"/> </a> 
+
 
 
